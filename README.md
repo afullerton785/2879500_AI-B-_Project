@@ -9,3 +9,5 @@ This repository should be explored in the following order:
 2. AI Generation
 3. Human Recreation
 4. Reflection
+
+Each folder contains the .ipynb file that should be read. This is the only area of each folder that should be accessed.
